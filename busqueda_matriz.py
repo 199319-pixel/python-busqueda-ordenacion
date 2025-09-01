@@ -25,4 +25,4 @@ if posicion:
     print(f"✅ El valor {valor_buscado} se encontró en la posición (fila {posicion[0]}, columna {posicion[1]}).")
 else:
     print(f"❌ El valor {valor_buscado} no se encontró en la matriz.")
-Agregado programa de búsqueda
+
